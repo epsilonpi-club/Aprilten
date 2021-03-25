@@ -1,2 +1,2 @@
 # clubwebsite
-EpsilonPi Official club website 
+EpsilonPi Official club website ( 2020)

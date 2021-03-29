@@ -92,7 +92,7 @@ Version: 1.0.0
 
 .rs-topbar-part .topbar-sl-share .icon-part {
 
-  color: #0b2ba7;
+  color: #FD00FF;
 
 }
 
@@ -280,7 +280,7 @@ Version: 1.0.0
 
 .rs-header .menu-area .main-menu .rs-menu ul.nav-menu li a:hover {
 
-  color: #fca719 !important;
+  color: #FF1300 !important;
 
 }
 
@@ -302,13 +302,13 @@ Version: 1.0.0
 
 .rs-header .menu-area .main-menu .rs-menu ul li.current-menu-item > a {
 
-  color: #fca719 !important;
+  color: #FD00FF !important;
 
 }
 
 .rs-header .menu-area .main-menu .rs-menu ul.nav-menu.onepage-menu li.active-menu a {
 
-  color: #fca719;
+  color: #FF1300;
 
 }
 
@@ -400,13 +400,13 @@ Version: 1.0.0
 
 .rs-header .menu-area .main-menu .rs-menu ul.sub-menu li a:hover {
 
-  color: #fca719 !important;
+  color: #FF1300 !important;
 
 }
 
 .rs-header .menu-area .main-menu .rs-menu ul.sub-menu li.active a {
 
-  color: #fca719 !important;
+  color: #FF1300 !important;
 
 }
 
@@ -688,7 +688,7 @@ Version: 1.0.0
 
   padding: 10px 40px;
 
-  background: #05d4ef;
+  background: #FF1300;
 
   color: #fff;
 
@@ -1280,7 +1280,7 @@ Version: 1.0.0
 
     .rs-header .menu-area.sticky .main-menu .rs-menu ul li.current-menu-item > a {
 
-      color: #05d4ef;
+      color: FF1300;
 
     }
 
@@ -1574,7 +1574,7 @@ Version: 1.0.0
 
     color: #fff;
 
-		background: #05d4ef;
+		background: FF1300;
 
 		
 

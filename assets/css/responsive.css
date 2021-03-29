@@ -511,3 +511,9 @@
 		line-height: 30px;
 	}
 }
+#main{
+	border-radius: 50px;
+background: #ffffff;
+box-shadow:  12px 12px 25px #e0e0e0,
+             -10px -10px 20px #e0e0e0;
+}

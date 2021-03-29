@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <link rel="shortcut icon" type="image/x-icon" href="assets/images/favi.png">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Login</title>
+    <link rel="stylesheet" href="fonts/material-icon/css/material-design-iconic-font.min.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Kiwi+Maru:wght@500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/style.css">
+  </head>
+  <body>
+    <div class="main">
+      <section class="sign-in">
+        <a href=""><img src="assets/images/clublogo.png" alt="" style="width: 40%;margin-bottom: -200px;margin-top: -300px;margin-left: 450px;"></a>
+        <div id="main" class="container" style="margin-bottom: -100px;">
+          <div class="signin-content">
+            <div class="signin-image">
+              <figure><img src="assets/images/signin-image.jpg" alt="sing up image"></figure>
+              <a href="register.html" class="signup-image-link" style="font-family: 'Kiwi Maru', serif;font-size: large;">Create an account</a>
+            </div>
+            <div class="signin-form">
+              <h2 class="form-title" style="font-family: 'Kiwi Maru', serif;">Sign up</h2>
+              <form   class="register-form" id="login-form" action="/">
+                <div class="form-group">
+                  <label for="your_name"><i class="zmdi zmdi-email"></i></label>
+                  <input type="email" name="email" id="your_name" placeholder="Your Email" style="font-family: 'Kiwi Maru', serif;" />
+                </div>
+                <div class="form-group">
+                  <label for="your_pass"><i class="zmdi zmdi-lock"></i></label>
+                  <input type="password" name="pass" id="your_pass" placeholder="Password" style="font-family: 'Kiwi Maru', serif;" />
+                </div>
+                <div class="form-group form-button">
+                  <input type="submit" name="signin" id="signin" class="form-submit" value="Log in" style="font-family: 'Kiwi Maru', serif;background: linear-gradient(
+                    10deg
+                    ,#FD00FF,#FF1300);" />
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+    <script src="assets/vendor/jquery/jquery.min.js"></script>
+    <script src="assets/js/main1.js"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-23581568-13"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      
+      gtag('config', 'UA-23581568-13');
+    </script>
+  </body>
+</html>

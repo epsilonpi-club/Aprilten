@@ -517,3 +517,16 @@ background: #ffffff;
 box-shadow:  12px 12px 25px #e0e0e0,
              -10px -10px 20px #e0e0e0;
 }
+#about{
+	border-radius: 50px;
+background: #ffffff;
+box-shadow:  12px 12px 25px #e0e0e0,
+             -10px -10px 20px #e0e0e0;	
+}
+#try:hover{
+	border-radius: 50px;
+background: #ffffff;
+	
+box-shadow: inset 8px 8px 16px #c7c7c7,
+            inset -8px -8px 16px #f9f9f9;
+}

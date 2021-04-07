@@ -28,6 +28,12 @@ background: #ffffff;
 box-shadow:  15px 15px 30px #e0e0e0,
              -10px -10px 20px #e0e0e0;
 }
+#main1{
+	border-radius: 25px;
+background: #ffffff;
+box-shadow:  15px 15px 30px #e0e0e0,
+             -10px -10px 20px #e0e0e0;
+}
 
 a:focus,
 a:active {
